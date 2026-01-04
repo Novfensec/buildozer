@@ -53,7 +53,7 @@ requests are related to missing dependencies.
 So, it is important to follow the instructions carefully.
 
 Please see the 
-[Installation documentation](https://buildozer.readthedocs.io/en/latest/installation.html)
+[Installation documentation](https://buildozer.readthedocs.io/en/latest/installation/)
 specific to this version.
 
 ## Buildozer Docker image
